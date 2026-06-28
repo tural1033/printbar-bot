@@ -122,12 +122,12 @@
 | Детская футболка | https://printbar.az/bizim-geyimler/futbolkalar/yumru-bogaz-usaq-futbolkasi/ | https://printbar.az/ru/nasha-odezhda-ru/futbolkalar-ru/yumru-bogaz-usaq-futbolkasi-ru/ | https://printbar.az/en/our-clothing-en/futbolkalar-en/yumru-bogaz-usaq-futbolkasi-en/ |
 | Базовая футболка | https://printbar.az/bizim-geyimler/futbolkalar/futbolka-regular/ | https://printbar.az/ru/nasha-odezhda-ru/futbolkalar-ru/futbolka-regular-ru/ | https://printbar.az/en/our-clothing-en/futbolkalar-en/futbolka-regular-en/ |
 | Оверсайз футболка | https://printbar.az/bizim-geyimler/futbolkalar/oversayz-futbolka/ | https://printbar.az/ru/nasha-odezhda-ru/futbolkalar-ru/oversayz-futbolka-ru/ | https://printbar.az/en/our-clothing-en/futbolkalar-en/oversayz-futbolka-en/ |
-| Поло | https://printbar.az/bizim-geyimler/futbolkalar/unisex-polo-futbolka-premium/ | https://printbar.az/ru/nasha-odezhda-ru/futbolkalar-ru/unisex-polo-futbolka-premium-ru/ | `[ОТВЕТИТЬ EN — в файле был дубликат RU]` |
+| Поло | https://printbar.az/bizim-geyimler/futbolkalar/unisex-polo-futbolka-premium/ | https://printbar.az/ru/nasha-odezhda-ru/futbolkalar-ru/unisex-polo-futbolka-premium-ru/ | https://printbar.az/en/our-clothing-en/futbolkalar-en/qisa-qol-polo-en/ |
 | Свитшот | https://printbar.az/bizim-geyimler/svitsotlar/regular-sviter/ | https://printbar.az/ru/nasha-odezhda-ru/svitsotlar-ru/regular-sviter-ru/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/regular-sviter-en/ |
 | Свитшот оверсайз | https://printbar.az/bizim-geyimler/svitsotlar/oversayz-sviter/ | https://printbar.az/ru/nasha-odezhda-ru/svitsotlar-ru/oversayz-sviter-ru/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/oversayz-sviter-en/ |
 | Худи детская | https://printbar.az/bizim-geyimler/svitsotlar/usaq-kapusonlu-sviter/ | https://printbar.az/ru/nasha-odezhda-ru/svitsotlar-ru/usaq-kapusonlu-sviter-ru/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/usaq-kapusonlu-sviter-en/ |
 | Худи | https://printbar.az/bizim-geyimler/svitsotlar/kapusonlu-ve-cibli-sviter-hoodie/ | https://printbar.az/ru/nasha-odezhda-ru/svitsotlar-ru/kapusonlu-ve-cibli-sviter-hoodie-ru/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/kapusonlu-ve-cibli-sviter-hoodie-en/ |
-| Худи оверсайз | `[ОТВЕТИТЬ — дашь ссылку позже]` | `[ОТВЕТИТЬ]` | `[ОТВЕТИТЬ]` |
+| Худи оверсайз | https://printbar.az/az/our-clothing-en/svitsotlar-az/oversize-hoodie/ | https://printbar.az/ru/our-clothing-ru/svitsotlar-en/oversize-hoodie/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/oversize-hoodie/ |
 | Худи на замке (зипка) | https://printbar.az/bizim-geyimler/svitsotlar/kapusosuz-sviter-zamoklu/ | https://printbar.az/ru/nasha-odezhda-ru/svitsotlar-ru/kapusosuz-sviter-zamoklu-ru/ | https://printbar.az/en/our-clothing-en/svitsotlar-en/kapusosuz-sviter-zamoklu-en/ |
 | Кепка | https://printbar.az/bizim-geyimler/kepkalar/kepka-premium-100-canva/ | https://printbar.az/ru/nasha-odezhda-ru/kepkalar-ru/kepka-premium-100-canva-ru/ | https://printbar.az/en/our-clothing-en/kepkalar-en/kepka-premium-100-canva-en/ |
 | Кружка керамическая 11 OZ | https://printbar.az/promo-b2b/qida-ve-i-cki-qablari/fincanlar/sublimasiya-fincanlari/mocha-ceramic-mug-ideal-for-sublimation/ | https://printbar.az/ru/promo-b2b-ru/qida-ve-i-cki-qablari-ru/kruzhki-chashki/sublimatsionnye-kruzhki/mocha-ceramic-mug-ideal-for-sublimation-ru/ | https://printbar.az/en/promo-b2b-en/qida-ve-i-cki-qablari-en/custom-mugs-cups-and-glasses/personalised-sublimation-mugs/mocha-ceramic-mug-ideal-for-sublimation-en/ |
@@ -327,9 +327,4 @@
 
 ---
 
-## ⚠️ Открытые вопросы (закрыть до запуска)
 
-- [ ] **EN-ссылка на «Поло»** — в исходнике был дубликат RU вместо EN. Дай корректный EN-URL.
-- [ ] **Худи оверсайз** — карточки товара (AZ/RU/EN) обещал прислать позже.
-- [ ] **Промежуточные тиражи 6–19 шт** — нужны ли ориентиры по цене, или всегда на менеджера.
-- [ ] Согласовать формулировку по изделиям клиента (сейчас: индивидуалам нет; бизнесу от 5 шт) — подтверди порог.
